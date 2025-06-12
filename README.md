@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZodGaz)](https://github.com/ZodGaz/github-readme-stats)
+
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZodGaz)](https://github.com/ZodGaz/github-readme-stats)
