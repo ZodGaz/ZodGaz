@@ -56,13 +56,4 @@
   - **Hybrid & native mobile development**  
   - **Developer tools for productivity**  
 
----
-
-## 📫 Get in Touch  
-
-- 💼 [LinkedIn](https://linkedin.com/in/alessio-gazzara)  
-- 📧 [Email](mailto:zodgaz@gmail.com)  
-
----
-
 ⚡ *When I’m not coding, you’ll probably find me tinkering with Unix systems, playing with automation scripts, or diving into the latest open source projects that push technology forward.*  
