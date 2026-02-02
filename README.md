@@ -19,5 +19,5 @@ I consider myself a mix between an engineer and a craftsman.
 * **Current Experiments:** Exploring how far I can push serverless architectures to replace traditional heavy backends.
 
 ---
-[Find me on LinkedIn](https://www.linkedin.com/in/alessio-gazzara/) or drop me a mail at zodgaz@gmail.com.
+[Find me on LinkedIn]([https://www.linkedin.com/in/alessio-gazzara/](https://www.linkedin.com/in/alessio-gazzara-471866275/)) or drop me a mail at zodgaz@gmail.com.
 I’m always down to chat about code, Linux, or **emulators** (I have a massive soft spot for how retro-consoles work).
