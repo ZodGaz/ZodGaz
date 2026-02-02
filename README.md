@@ -7,7 +7,7 @@ My roots are deep in the backend world. I spent years building Java frameworks a
 Lately, I’ve been moving towards the "front". I realized that to truly build products, I needed to own the full stack. I’m currently building web and desktop apps using React, Electron, and BaaS solutions.
 *Full disclosure:* I’m not a CSS wizard yet. Still learning.
 
-### Why Open Source?
+### Open Source lover
 For me, Open Source isn't just about free software; it's about collective intelligence. I spend a lot of time reading code I didn't write—even in languages I don't use—because I respect the craft.
 I’ve contributed to projects like **[JabRef](https://github.com/JabRef/jabref)**, and while I’m not a monthly maintainer, every PR I merge reminds me that software should be a funded, common good.
 
