@@ -16,7 +16,7 @@ I consider myself a mix between an engineer and a craftsman.
 
 * **[Neutone](https://apps.apple.com/it/app/neutone/id6445848829):** A project I loved from the **Apple Developer Academy**. It started as a research challenge: detecting skin undertones accurately in real-time. We didn't just wrap an API; we engineered a custom CNN pipeline, augmented over **7,000 images** with Python, and optimized it to run entirely on-device via CoreML. It’s live on the App Store as a testament to those months of R&D.
 
-* **The "Fullstack" Shift:** After years of low-level backend, I'm now exploring the opposite end. I'm building **React** and **Electron** apps powered by **BaaS**, trying to see how lean a modern architecture can get without sacrificing robustness.
+* **Current Experiments:** Exploring how far I can push serverless architectures to replace traditional heavy backends.
 
 ---
 [Find me on LinkedIn](https://www.linkedin.com/in/alessio-gazzara/) or drop me a mail at zodgaz@gmail.com.
