@@ -1,59 +1,23 @@
-# 👋 Hi, I'm Alessio Gazzara  
+# Hi, I'm Alessio.
 
-🚀 **Backend & Mobile Developer** | **Computer Science Graduate** | **Open Source Passionate**  
-📍 Naples, Italy  
+I’m a developer in the middle of an evolution.
 
-🎯 *I design scalable backend systems, build cross-platform mobile apps, and contribute to open source projects. Always curious, always learning.*  
+My roots are deep in the backend world. I spent years building Java frameworks and dealing with the nitty-gritty of IoT and low-level C/C++ protocols. While I might need a manual to write a C++ pointer today, that experience taught me how computers actually think—discipline that still grounds my work.
 
----
+Lately, I’ve been moving towards the "front". I realized that to truly build products, I needed to own the full stack. I’m currently building web and desktop apps using React, Electron, and BaaS solutions.
+*Full disclosure:* I’m not a CSS wizard yet. Still learning.
 
-## 🛠️ Tech Stack  
+### Why Open Source?
+For me, Open Source isn't just about free software; it's about collective intelligence. I spend a lot of time reading code I didn't write—even in languages I don't use—because I respect the craft.
+I’ve contributed to projects like **[JabRef](https://github.com/JabRef/jabref)**, and while I’m not a monthly maintainer, every PR I merge reminds me that software should be a funded, common good.
 
-**Primary Languages**:  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+## What I'm building
+I consider myself a mix between an engineer and a craftsman.
 
-**Backend Development**:  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+* **[Neutone](https://apps.apple.com/it/app/neutone/id6445848829):** A project I loved from the **Apple Developer Academy**. It started as a research challenge: detecting skin undertones accurately in real-time. We didn't just wrap an API; we engineered a custom CNN pipeline, augmented over **7,000 images** with Python, and optimized it to run entirely on-device via CoreML. It’s live on the App Store as a testament to those months of R&D.
 
-**Mobile Development**:  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-**DevOps & Tools**:  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+* **The "Fullstack" Shift:** After years of low-level backend, I'm now exploring the opposite end. I'm building **React** and **Electron** apps powered by **BaaS**, trying to see how lean a modern architecture can get without sacrificing robustness.
 
 ---
-
-## ❤️ Open Source  
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/zodgaz)  
-
-- Active contributor to open source projects
-- Maintainer of personal repositories  
-- Strong believer in collaboration & knowledge sharing  
-
----
-
-## 🧠 About Me  
-
-- 🎓 Bachelor's in **Computer Science** @ *University of Naples Federico II*  
-- 🍏 Alumnus @ *Apple Developer Academy*  
-- 💻 Experienced in:
-  - RESTful API development & microservices  
-  - IoT and embedded systems integration  
-  - Mobile-first software design  
-- 🔭 Currently exploring:
-  - **High-performance backend systems**  
-  - **Hybrid & native mobile development**  
-  - **Developer tools for productivity**  
-
-⚡ *When I’m not coding, you’ll probably find me tinkering with Unix systems, playing with automation scripts, or diving into the latest open source projects that push technology forward.*  
+[Find me on LinkedIn](https://www.linkedin.com/in/alessio-gazzara/) or drop me a mail at zodgaz@gmail.com.
+I’m always down to chat about code, Linux, or **emulators** (I have a massive soft spot for how retro-consoles work).
