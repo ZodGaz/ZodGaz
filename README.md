@@ -1,4 +1,4 @@
-# Hi, I'm Alessio.
+# Hi, I'm Alessio
 
 I’m a developer in the middle of an evolution.
 
